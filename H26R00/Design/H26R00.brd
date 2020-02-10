@@ -1603,12 +1603,12 @@ design rules under a new name.</description>
 <element name="C13" library="Hexabitz" package="C-0603" value="10uF" x="39.624" y="48.006" smashed="yes" rot="MR0">
 <attribute name="CAPACITANCE" value="10uF" x="39.624" y="48.006" size="1.778" layer="28" rot="MR0" display="off"/>
 <attribute name="MFN" value="Murata" x="39.624" y="48.006" size="1.778" layer="28" rot="MR0" display="off"/>
-<attribute name="MPN" value="GRM188R60J106ME84D" x="39.624" y="48.006" size="1.778" layer="28" rot="MR0" display="off"/>
+<attribute name="MPN" value="GRM188R61A106KE69D" x="39.624" y="48.006" size="1.778" layer="28" rot="MR0" display="off"/>
 <attribute name="NAME" x="37.719" y="47.625" size="1.016" layer="26" rot="MR0"/>
-<attribute name="OCTOPART_URL" value="https://octopart.com/grm188r60j106me84d-murata-29304413?r=sp&amp;s=osVScEPTSN-OxfkF3UyHfg" x="39.624" y="48.006" size="1.778" layer="28" rot="MR0" display="off"/>
+<attribute name="OCTOPART_URL" value="https://octopart.com/grm188r61a106ke69d-murata-22851381?r=ap&amp;s=o9t4ILLiSny6rfdd0oM5Kg" x="39.624" y="48.006" size="1.778" layer="28" rot="MR0" display="off"/>
 <attribute name="TOLERANCE" value="10%" x="39.624" y="48.006" size="1.778" layer="28" rot="MR0" display="off"/>
 <attribute name="VALUE" x="40.259" y="46.101" size="1.016" layer="28" rot="MR0"/>
-<attribute name="VOLTAGE_RATING" value="6.3V" x="39.624" y="48.006" size="1.778" layer="28" rot="MR0" display="off"/>
+<attribute name="VOLTAGE_RATING" value="10V" x="39.624" y="48.006" size="1.778" layer="28" rot="MR0" display="off"/>
 </element>
 <element name="R5" library="Hexabitz" package="R-0603" value="100" x="30.734" y="39.624" smashed="yes" rot="R90">
 <attribute name="MFN" value="Yageo" x="30.734" y="39.624" size="1.778" layer="27" rot="R90" display="off"/>
