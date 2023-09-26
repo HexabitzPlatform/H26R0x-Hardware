@@ -1,11 +1,11 @@
 {
     "Header": {
         "Comment": "All values are metric (mm)",
-        "CreationDate": "2020-02-10T16:19:52Z",
+        "CreationDate": "2023-09-17T11:17:41Z",
         "GenerationSoftware": {
             "Application": "EAGLE",
             "Vendor": "Autodesk",
-            "Version": "9.3.0"
+            "Version": "9.6.2"
         },
         "Part": "Single"
     },
@@ -13,9 +13,9 @@
         "BoardThickness": 1.57,
         "LayerNumber": 2,
         "Name": {
-            "ProjectId": "H26R00"
+            "ProjectId": "H26R01"
         },
-        "Owner": "Asaad Kaadan <asaad@hexabitz.com>",
+        "Owner": "Ibrahim Zaeiter <zeater18@gmail.com>",
         "Size": {
             "X": 34.64,
             "Y": 30
